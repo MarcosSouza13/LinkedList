@@ -10,7 +10,6 @@ public class Program {
 	public static void main(String[] args) {
 		AdtLinkedList list = new AdtLinkedList();
 
-		@SuppressWarnings("resource")
         Scanner scn = new Scanner(System.in);
 
         while (true) {
